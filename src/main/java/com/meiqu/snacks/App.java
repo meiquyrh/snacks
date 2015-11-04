@@ -1,6 +1,6 @@
 package com.meiqu.snacks;
 
-/**
+/** 
  * Hello world!
  *
  */
